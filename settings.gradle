@@ -1,0 +1,2 @@
+rootProject.name = "externalActivity"
+include ':app'
